@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         图灵阅读标题栏固定
+// @namespace    https://github.com/atever/browserfork/edit/master/ituring.js
 // @version      0.1
 // @description  固定阅读页标题栏
 // @license      MIT License
