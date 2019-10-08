@@ -2,7 +2,7 @@
 // @name         Google 搜索结果去除 CSDN
 // @namespace    https://raw.githubusercontent.com/atever/browserfork/master/remove_csdn_for_google_result.js
 // @version      0.1.1
-// @description  搜索结果去除 CSDN
+// @description  remove_csdn_for_google_result.js
 // @license      MIT License
 // @author       ateveryuan@gmail.com
 // @match        https://*.google.com/*
