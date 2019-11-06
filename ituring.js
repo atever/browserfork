@@ -5,7 +5,7 @@
 // @description  固定阅读页标题栏
 // @license      MIT License
 // @author       ateveryuan@gmail.com
-// @match        http://www.ituring.com.cn/book/tupubarticle/*
+// @match        *.ituring.com.cn/book/tupubarticle/*
 // @grant        none
 // ==/UserScript==
 
