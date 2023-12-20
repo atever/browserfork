@@ -2,7 +2,7 @@
 // @name         复制龙腾网文章标题
 // @namespace    http://tampermonkey.net/
 // @version      2023-12-20
-// @description  复制龙腾网文章标题
+// @description  复制龙腾网文章标题到剪贴板
 // @author       ateveryuan@gmail.com
 // @match        https://translate.ltaaa.cn/article/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
